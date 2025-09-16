@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(https://fonts.google.com/share?selection.family=Raleway:ital,wght@0,100..900;1,100..900);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url(https://fonts.google.com/share?selection.family=Raleway:ital,wght@0,100..900;1,100..900);
+    font-weight: normal;
+}
